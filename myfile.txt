@@ -1,0 +1,12 @@
+test_Quit (TC_browse_and_buy.BrowseBuy) ... ok
+test_browse_select (TC_browse_and_buy.BrowseBuy) ... ok
+test_Quit (TC_check_price.CheckPrice) ... ok
+test_price_on_page_cart_compare (TC_check_price.CheckPrice) ... ok
+test_remove_product (TC_update_cart.Update_Check_Remove_Cart) ... ok
+test_update_check_remove_quantity (TC_update_cart.Update_Check_Remove_Cart) ... ok
+test_updated_price_on_cart (TC_update_cart.Update_Check_Remove_Cart) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 89.659s
+
+OK
